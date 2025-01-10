@@ -1,4 +1,4 @@
-# help-ist-sigma-access
+# Acesso ao Sigma IST
 
 ### Acesso remoto ao ambiente de referência
 
